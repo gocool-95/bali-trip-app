@@ -1,0 +1,673 @@
+[
+  {
+    "dayNumber": 1, "date": "2026-02-27", "time": "10:15", "endTime": "11:30",
+    "title": "Arrival & transfer to hotel",
+    "location": "Denpasar Airport → Legian",
+    "category": "transport", "transport": "Car",
+    "notes": "Immigration + baggage buffer",
+    "paymentStatus": "pending", "order": 1
+  },
+  {
+    "dayNumber": 1, "date": "2026-02-27", "time": "11:30", "endTime": "14:00",
+    "title": "Rest / Lunch / Hotel check-in",
+    "location": "Legian",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 1, "date": "2026-02-27", "time": "14:00", "endTime": "16:30",
+    "title": "Travel + explore Tanah Lot",
+    "location": "Legian → Tanah Lot",
+    "category": "sightseeing", "transport": "Car",
+    "paymentStatus": "pending", "order": 3
+  },
+  {
+    "dayNumber": 1, "date": "2026-02-27", "time": "16:30", "endTime": "18:30",
+    "title": "Sunset views",
+    "location": "Tanah Lot",
+    "category": "sightseeing", "transport": "Walk",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 1, "date": "2026-02-27", "time": "19:30", "endTime": "21:30",
+    "title": "Dinner + Potato Head Beach Club",
+    "location": "Seminyak",
+    "category": "food", "transport": "Car",
+    "paymentStatus": "pending", "order": 5
+  },
+
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "06:00", "endTime": "06:40",
+    "title": "Complimentary breakfast at hotel",
+    "location": "Legian",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "06:45", "endTime": "07:30",
+    "title": "Travel to harbor",
+    "location": "Legian → Sanur",
+    "category": "transport", "transport": "Car",
+    "notes": "Need to arrive by 7:45",
+    "paymentStatus": "pending", "order": 2
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "08:00", "endTime": "08:45",
+    "title": "Angkal Fast Cruise",
+    "location": "Sanur → Nusa Penida",
+    "category": "transport", "transport": "Boat",
+    "notes": "~45 min",
+    "paymentStatus": "paid", "order": 3
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "09:00", "endTime": "09:45",
+    "title": "Hotel transfer + freshen up",
+    "location": "Port → Hotel",
+    "category": "relaxation", "transport": "Hotel car",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "10:45", "endTime": "11:00",
+    "title": "Scooter pickup",
+    "location": "Hotel, Nusa Penida",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "pending", "order": 5
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "11:00", "endTime": "11:45",
+    "title": "Ride to Diamond Beach",
+    "location": "East Penida",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "free", "order": 6
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "11:45", "endTime": "12:45",
+    "title": "Diamond Beach — beach + descent",
+    "location": "Diamond Beach",
+    "category": "adventure", "transport": "Walk",
+    "paymentStatus": "free", "order": 7
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "12:45", "endTime": "13:30",
+    "title": "Lunch",
+    "location": "Diamond Area",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "pending", "order": 8
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "13:30", "endTime": "14:00",
+    "title": "Ride to Temeling",
+    "location": "Mid Penida",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "free", "order": 9
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "14:00", "endTime": "14:50",
+    "title": "Spring water + beach",
+    "location": "Temeling",
+    "category": "adventure", "transport": "Walk",
+    "paymentStatus": "free", "order": 10
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "15:15", "endTime": "15:35",
+    "title": "Viewpoint",
+    "location": "Manta Cliff",
+    "category": "sightseeing", "transport": "Scooter",
+    "paymentStatus": "free", "order": 11
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "15:55", "endTime": "16:45",
+    "title": "Walk + feet dip",
+    "location": "Broken Beach",
+    "category": "sightseeing", "transport": "Walk",
+    "paymentStatus": "free", "order": 12
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "17:40", "endTime": "18:45",
+    "title": "Sunset viewpoints",
+    "location": "Kelingking",
+    "category": "sightseeing", "transport": "Walk",
+    "paymentStatus": "free", "order": 13
+  },
+  {
+    "dayNumber": 2, "date": "2026-02-28", "time": "19:15", "endTime": "20:00",
+    "title": "Return + dinner",
+    "location": "Hotel, Nusa Penida",
+    "category": "food", "transport": "Scooter",
+    "paymentStatus": "pending", "order": 14
+  },
+
+  {
+    "dayNumber": 3, "date": "2026-03-01", "time": "08:00", "endTime": "09:00",
+    "title": "Complimentary breakfast at hotel",
+    "location": "Nusa Penida",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 3, "date": "2026-03-01", "time": "09:00", "endTime": "09:45",
+    "title": "Checkout + ride to Banjar Nyuh port",
+    "location": "Nusa Penida",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 3, "date": "2026-03-01", "time": "10:20", "endTime": "13:30",
+    "title": "Eka Jaya ferry via Wijaya Buyuk",
+    "location": "Nusa Penida → Gili T",
+    "category": "transport", "transport": "Boat",
+    "notes": "~3 hrs",
+    "paymentStatus": "paid", "order": 3
+  },
+  {
+    "dayNumber": 3, "date": "2026-03-01", "time": "13:30", "endTime": "14:30",
+    "title": "Check-in + settle in",
+    "location": "Gili T",
+    "category": "relaxation", "transport": "Walk/Cycle",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 3, "date": "2026-03-01", "time": "18:30", "endTime": "21:00",
+    "title": "Fire show + dinner",
+    "location": "Gili T",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "pending", "order": 5
+  },
+
+  {
+    "dayNumber": 4, "date": "2026-03-02", "time": "06:30", "endTime": "07:30",
+    "title": "Complimentary breakfast at stay",
+    "location": "Gili T",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 4, "date": "2026-03-02", "time": "08:00", "endTime": "12:00",
+    "title": "Scuba / Snorkeling",
+    "location": "Gili T",
+    "category": "adventure", "transport": "Boat",
+    "paymentStatus": "pending", "order": 2
+  },
+  {
+    "dayNumber": 4, "date": "2026-03-02", "time": "16:00", "endTime": "21:00",
+    "title": "Relax, sunset, dinner",
+    "location": "Gili T",
+    "category": "relaxation", "transport": "Cycle",
+    "paymentStatus": "pending", "order": 3
+  },
+
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "07:00", "endTime": "08:00",
+    "title": "Complimentary breakfast at stay",
+    "location": "Gili T",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "08:00", "endTime": "08:30",
+    "title": "Checkout + get to port",
+    "location": "Gili T",
+    "category": "transport", "transport": "Walk",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "09:00", "endTime": "11:30",
+    "title": "Wijaya Buyuk ferry",
+    "location": "Gili T → Sanur Harbour",
+    "category": "transport", "transport": "Boat",
+    "notes": "~2.5 hrs",
+    "paymentStatus": "paid", "order": 3
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "12:30", "endTime": "13:30",
+    "title": "Car transfer to Ubud",
+    "location": "Sanur → Ubud Airbnb",
+    "category": "transport", "transport": "Car",
+    "paymentStatus": "pending", "order": 4
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "13:30", "endTime": "14:15",
+    "title": "Drop luggage, pick up bike, quick bite",
+    "location": "Ubud",
+    "category": "relaxation", "transport": "Walk",
+    "notes": "Grab nasi bungkus to go — saves 15 min",
+    "paymentStatus": "free", "order": 5
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "14:15", "endTime": "15:45",
+    "title": "Ride to temple via Bedugul",
+    "location": "Ubud → Ulun Danu Beratan",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~1.5 hrs mountain road",
+    "paymentStatus": "free", "order": 6
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "15:45", "endTime": "17:00",
+    "title": "Ulun Danu Beratan Temple visit",
+    "location": "Ulun Danu Beratan Temple",
+    "category": "sightseeing", "transport": "Walk",
+    "notes": "1 hr 15 min — enough to see it properly",
+    "paymentStatus": "pending", "order": 7
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "17:00", "endTime": "17:45",
+    "title": "Ride to Lovina",
+    "location": "Beratan → Lovina",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~45 min downhill ride",
+    "paymentStatus": "free", "order": 8
+  },
+  {
+    "dayNumber": 5, "date": "2026-03-03", "time": "17:45",
+    "title": "Relax, dinner, early night",
+    "location": "Lovina",
+    "category": "relaxation", "transport": "Walk",
+    "notes": "Rest up for 6 AM dolphin tour",
+    "paymentStatus": "pending", "order": 9
+  },
+
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "06:00", "endTime": "08:30",
+    "title": "Dolphin tour",
+    "location": "Lovina",
+    "category": "adventure", "transport": "Boat",
+    "notes": "Early start",
+    "paymentStatus": "pending", "order": 1
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "08:30", "endTime": "09:30",
+    "title": "Breakfast",
+    "location": "Lovina",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "pending", "order": 2
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "09:30", "endTime": "11:00",
+    "title": "Freshen up, pack, checkout",
+    "location": "Lovina",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 3
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "11:00", "endTime": "11:30",
+    "title": "Ride to waterfall",
+    "location": "Lovina → Aling Aling",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~25-30 min south of Lovina",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "11:30", "endTime": "13:30",
+    "title": "Waterfall trek + cliff jumps",
+    "location": "Aling Aling Waterfall",
+    "category": "adventure", "transport": "Walk",
+    "notes": "Guide required ~125k IDR pp, short trek",
+    "amount": 250000, "currency": "IDR",
+    "paymentStatus": "pending", "order": 5
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "13:30", "endTime": "14:15",
+    "title": "Lunch",
+    "location": "Sambangan Village",
+    "category": "food", "transport": "Walk",
+    "notes": "Local warungs near waterfall",
+    "paymentStatus": "pending", "order": 6
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "14:15", "endTime": "16:15",
+    "title": "Ride to Ubud via Bedugul",
+    "location": "Aling Aling → Ubud",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~2 hrs mountain ride",
+    "paymentStatus": "free", "order": 7
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "16:15", "endTime": "16:30",
+    "title": "Lily Garden Airbnb — quick drop bags",
+    "location": "Ubud",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 8
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "16:30", "endTime": "18:00",
+    "title": "Glass Bridge + rainbow slide",
+    "location": "Glass Bridge Bali, Kemenuh",
+    "category": "adventure", "transport": "Motorcycle",
+    "notes": "~30 min from Ubud. 250k IDR entry. Cash only.",
+    "amount": 500000, "currency": "IDR",
+    "paymentStatus": "pending", "order": 9
+  },
+  {
+    "dayNumber": 6, "date": "2026-03-04", "time": "19:00", "endTime": "21:00",
+    "title": "Dinner + evening in Ubud",
+    "location": "Ubud",
+    "category": "food", "transport": "Walk",
+    "notes": "Early night — Batur trek at 2 AM",
+    "paymentStatus": "pending", "order": 10
+  },
+
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "03:00", "endTime": "08:00",
+    "title": "Sunrise jeep trek",
+    "location": "Mt Batur",
+    "category": "adventure", "transport": "Jeep",
+    "notes": "Pickup ~3 AM",
+    "paymentStatus": "pending", "order": 1
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "08:00", "endTime": "09:00",
+    "title": "Ride back to Ubud",
+    "location": "Mt Batur → Ubud",
+    "category": "transport", "transport": "Car",
+    "notes": "Buffer hour",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "09:00", "endTime": "10:00",
+    "title": "Breakfast at L Lago",
+    "location": "L Lago Bali",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "pending", "order": 3
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "10:00", "endTime": "12:00",
+    "title": "Rest / free time",
+    "location": "Ubud",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "12:00", "endTime": "14:30",
+    "title": "ATV ride",
+    "location": "Melinggih Kelod",
+    "category": "adventure", "transport": "Car",
+    "paymentStatus": "pending", "order": 5
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "14:30", "endTime": "15:15",
+    "title": "Ride to waterfall",
+    "location": "Melinggih → Taman Sari",
+    "category": "transport", "transport": "Scooter",
+    "notes": "~40-50 min via village roads",
+    "paymentStatus": "free", "order": 6
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "15:15", "endTime": "16:45",
+    "title": "Waterfall visit",
+    "location": "Taman Sari Waterfall",
+    "category": "sightseeing", "transport": "Walk",
+    "paymentStatus": "free", "order": 7
+  },
+  {
+    "dayNumber": 7, "date": "2026-03-05", "time": "16:45", "endTime": "17:15",
+    "title": "Ride back to Ubud",
+    "location": "Taman Sari → Ubud",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "free", "order": 8
+  },
+
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "08:00", "endTime": "09:00",
+    "title": "Breakfast",
+    "location": "Lily Garden, Ubud",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "09:00", "endTime": "10:00",
+    "title": "Pack + checkout",
+    "location": "Ubud",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "10:00", "endTime": "11:30",
+    "title": "Grab taxi to Fourteen Roses",
+    "location": "Ubud → Legian",
+    "category": "transport", "transport": "Grab",
+    "notes": "~1.5 hrs",
+    "paymentStatus": "pending", "order": 3
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "11:30", "endTime": "12:00",
+    "title": "Check-in + drop luggage",
+    "location": "Fourteen Roses, Legian",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "12:00", "endTime": "12:15",
+    "title": "Pickup rental scooter",
+    "location": "Legian",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "pending", "order": 5
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "12:15", "endTime": "13:15",
+    "title": "Ride to Marine Safari Bali",
+    "location": "Legian → Marine Safari",
+    "category": "transport", "transport": "Scooter",
+    "notes": "~1 hr",
+    "paymentStatus": "free", "order": 6
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "13:15", "endTime": "13:45",
+    "title": "Lunch at/near park",
+    "location": "Marine Safari Bali",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "pending", "order": 7
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "13:45", "endTime": "15:30",
+    "title": "Explore park + 3 PM Capybara Keeper Talk",
+    "location": "Marine Safari Bali",
+    "category": "sightseeing", "transport": "Walk",
+    "notes": "River Bank area",
+    "paymentStatus": "pending", "order": 8
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "15:30", "endTime": "16:30",
+    "title": "Ride back to hotel",
+    "location": "Marine Safari → Fourteen Roses",
+    "category": "transport", "transport": "Scooter",
+    "notes": "~1 hr",
+    "paymentStatus": "free", "order": 9
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "16:30", "endTime": "17:00",
+    "title": "Freshen up",
+    "location": "Fourteen Roses, Legian",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 10
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "17:00", "endTime": "17:30",
+    "title": "Ride to Finns",
+    "location": "Legian → Canggu",
+    "category": "transport", "transport": "Scooter",
+    "notes": "~30 min",
+    "paymentStatus": "free", "order": 11
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "17:30", "endTime": "21:00",
+    "title": "Finns Club + sunset",
+    "location": "Finns Beach Club, Canggu",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "pending", "order": 12
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "21:00", "endTime": "21:30",
+    "title": "Ride back to hotel",
+    "location": "Canggu → Legian",
+    "category": "transport", "transport": "Scooter",
+    "paymentStatus": "free", "order": 13
+  },
+  {
+    "dayNumber": 8, "date": "2026-03-06", "time": "21:30",
+    "title": "Relax",
+    "location": "Fourteen Roses, Legian",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 14
+  },
+
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "08:00", "endTime": "09:30",
+    "title": "Wake up + complimentary breakfast",
+    "location": "Fourteen Roses, Legian",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "09:30", "endTime": "10:00",
+    "title": "Get ready",
+    "location": "Fourteen Roses, Legian",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "10:00", "endTime": "10:40",
+    "title": "Ride to Garuda Wisnu Kencana",
+    "location": "Legian → GWK",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~40 min",
+    "paymentStatus": "free", "order": 3
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "10:40", "endTime": "12:30",
+    "title": "Explore park + statue + photos",
+    "location": "GWK Cultural Park",
+    "category": "sightseeing", "transport": "Walk",
+    "notes": "~2 hrs, no rushing",
+    "paymentStatus": "pending", "order": 4
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "12:30", "endTime": "13:15",
+    "title": "Lunch",
+    "location": "Near GWK",
+    "category": "food", "transport": "Walk",
+    "notes": "Warungs in Ungasan area",
+    "paymentStatus": "pending", "order": 5
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "13:15", "endTime": "13:30",
+    "title": "Ride to beach",
+    "location": "GWK → Pantai Tanah Barak",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~15 min",
+    "paymentStatus": "free", "order": 6
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "13:30", "endTime": "14:30",
+    "title": "Beach time",
+    "location": "Pantai Tanah Barak",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 7
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "14:30", "endTime": "14:45",
+    "title": "Ride to Klive Beach Club",
+    "location": "Tanah Barak → Klive",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~10 min",
+    "paymentStatus": "free", "order": 8
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "14:45", "endTime": "16:15",
+    "title": "7-layer deck club",
+    "location": "Klive Beach Club",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "pending", "order": 9
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "16:15", "endTime": "16:30",
+    "title": "Ride to Suluban Beach",
+    "location": "Klive → Suluban",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~10 min",
+    "paymentStatus": "free", "order": 10
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "16:30", "endTime": "17:15",
+    "title": "Beach + chill",
+    "location": "Suluban Beach",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 11
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "17:15", "endTime": "17:30",
+    "title": "Walk to temple",
+    "location": "Suluban → Uluwatu Temple",
+    "category": "transport", "transport": "Walk",
+    "notes": "~5 min, neighbours",
+    "paymentStatus": "free", "order": 12
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "17:30", "endTime": "19:00",
+    "title": "Sunset + Kecak dance (optional)",
+    "location": "Uluwatu Temple",
+    "category": "sightseeing", "transport": "Walk",
+    "notes": "6 PM show, sun sets during performance",
+    "paymentStatus": "pending", "order": 13
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "19:00", "endTime": "19:20",
+    "title": "Ride to Jimbaran",
+    "location": "Uluwatu → Rock Bar",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~20 min",
+    "paymentStatus": "free", "order": 14
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "19:20", "endTime": "21:00",
+    "title": "Night drinks on the cliffs",
+    "location": "Rock Bar, Ayana",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "pending", "order": 15
+  },
+  {
+    "dayNumber": 9, "date": "2026-03-07", "time": "21:00", "endTime": "21:45",
+    "title": "Ride back to Fourteen Roses",
+    "location": "Jimbaran → Legian",
+    "category": "transport", "transport": "Motorcycle",
+    "notes": "~40 min",
+    "paymentStatus": "free", "order": 16
+  },
+
+  {
+    "dayNumber": 10, "date": "2026-03-08", "time": "07:00", "endTime": "08:00",
+    "title": "Wake up + pack + checkout",
+    "location": "Fourteen Roses, Legian",
+    "category": "relaxation", "transport": "Walk",
+    "paymentStatus": "free", "order": 1
+  },
+  {
+    "dayNumber": 10, "date": "2026-03-08", "time": "08:00", "endTime": "08:30",
+    "title": "Breakfast",
+    "location": "Fourteen Roses, Legian",
+    "category": "food", "transport": "Walk",
+    "paymentStatus": "free", "order": 2
+  },
+  {
+    "dayNumber": 10, "date": "2026-03-08", "time": "08:30", "endTime": "09:00",
+    "title": "Grab to Ngurah Rai",
+    "location": "Legian → Airport",
+    "category": "transport", "transport": "Grab",
+    "notes": "~25 min",
+    "paymentStatus": "pending", "order": 3
+  },
+  {
+    "dayNumber": 10, "date": "2026-03-08", "time": "09:00", "endTime": "09:30",
+    "title": "Check-in + immigration",
+    "location": "Ngurah Rai Airport",
+    "category": "transport", "transport": "Walk",
+    "paymentStatus": "free", "order": 4
+  },
+  {
+    "dayNumber": 10, "date": "2026-03-08", "time": "11:30",
+    "title": "6E 1606 departs → Bangalore",
+    "location": "Ngurah Rai Airport",
+    "category": "transport", "transport": "Flight",
+    "notes": "Arrives BLR 15:05 IST",
+    "paymentStatus": "paid", "order": 5
+  }
+]
